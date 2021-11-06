@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Rama Oscar
+          Rama Agus
         </a>
       </header>
     </div>
