@@ -14,14 +14,14 @@ export default function Header() {
         <h1>Hola, Soy Lorem ipsum dolor </h1>
         <div className={styles.container__skills}>
           <div className={styles.container__animation}>
-            <ul class={styles.container__animation__list}>
-              <li class={styles.container__animation__list__item}>
+            <ul className={styles.container__animation__list}>
+              <li className={styles.container__animation__list__item}>
                 UX Designer.
               </li>
-              <li class={styles.container__animation__list__item}>
+              <li className={styles.container__animation__list__item}>
                 Content Writter.
               </li>
-              <li class={styles.container__animation__list__item}>
+              <li className={styles.container__animation__list__item}>
                 UI Designer.
               </li>
             </ul>
