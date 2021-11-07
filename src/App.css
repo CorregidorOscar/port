@@ -1,3 +1,9 @@
+:root {
+  --color-Gunmetal: #222831;
+  --color-Charcoal: #393e46;
+  --color-Verdigris: #00adb5;
+  --color-Cultured: #eeeeee;
+}
 .App {
   text-align: center;
 }
