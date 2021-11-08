@@ -1,8 +1,15 @@
+import styles from './Body.module.css'
+
 
 const Body = ()=>{
     return (
-        <div>
-            
+        <div className={styles.container}>
+            <div className={styles.left}>
+
+            </div>
+            <div className={styles.rigth}>
+
+            </div>
         </div>
     )
 }
